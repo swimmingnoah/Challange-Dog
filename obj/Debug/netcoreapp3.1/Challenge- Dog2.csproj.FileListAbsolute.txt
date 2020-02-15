@@ -1,0 +1,11 @@
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/bin/Debug/netcoreapp3.1/Challenge- Dog2
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/bin/Debug/netcoreapp3.1/Challenge- Dog2.deps.json
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/bin/Debug/netcoreapp3.1/Challenge- Dog2.runtimeconfig.json
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/bin/Debug/netcoreapp3.1/Challenge- Dog2.runtimeconfig.dev.json
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/bin/Debug/netcoreapp3.1/Challenge- Dog2.dll
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/bin/Debug/netcoreapp3.1/Challenge- Dog2.pdb
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/obj/Debug/netcoreapp3.1/Challenge- Dog2.csprojAssemblyReference.cache
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/obj/Debug/netcoreapp3.1/Challenge- Dog2.AssemblyInfoInputs.cache
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/obj/Debug/netcoreapp3.1/Challenge- Dog2.AssemblyInfo.cs
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/obj/Debug/netcoreapp3.1/Challenge- Dog2.dll
+/Users/gracehardester/Desktop/2040/Challenge- Dog2/obj/Debug/netcoreapp3.1/Challenge- Dog2.pdb
